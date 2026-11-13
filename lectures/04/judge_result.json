@@ -1,7 +1,7 @@
 {
   "model": "gemini-3.1-flash-lite",
   "rubric": "data/eval/rubric.md",
-  "run_at": "2026-11-13T13:25:46",
+  "run_at": "2026-11-13T21:10:59",
   "verdicts": {
     "01": {
       "grounding": {
